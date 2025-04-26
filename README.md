@@ -19,7 +19,7 @@ deepfake-image-detection/
 │   └── metadata.csv
 └── results/
     └── output_examples/
-
+----DATASETs PATH : https://www.kaggle.com/code/sanikanareshbutle/deepfake-detection/notebook  (metadata.csv  , face_224)
 🛠️ Features
 Metadata Extraction: Analyze EXIF and other metadata to spot anomalies.
 
