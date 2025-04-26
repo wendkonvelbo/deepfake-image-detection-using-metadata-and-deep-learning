@@ -67,3 +67,17 @@ Copy
 Edit
 python model/fft_analysis.py
 
+RESULT 
+Image 1: The Pie Chart
+Imagine you have a box of 100 photos. This pie chart shows that 83 of those photos are fake (red piece) and only 17 are real (purple piece). The computer needs to learn which is which, but this chart shows it will see many more fake photos than real ones during training.
+Images 2 & 3: The Mountain Charts
+These show how big the photos are. Most photos are about the same size - not too big and not too small. Like if you had a bunch of school photos, they'd mostly be similar sizes. The computer works better when all the photos are similar sizes.
+Images 4 & 5: The Box Charts
+These are like measuring all the photos with a ruler. The red box shows where most photo sizes fall. The little circles far away are the unusually big or small photos. This helps us know if some photos need special attention because they're different.
+Images 6 & 7: The Shape Charts
+These funny-looking shapes show us where most photo sizes are. The fatter parts mean there are lots of photos that size. It looks like a sound wave because there are several common sizes in the collection.
+Image 8: Face Examples
+This is just showing us examples of faces in the photos. Some are clear, some are blurry. The computer needs to see lots of different types of faces to learn well.
+Image 9: Real vs. Fake Faces
+This is the most important picture! It shows faces labeled as either "REAL" or "FAKE." The amazing thing is that many fake faces look so real that it's hard for people to tell the difference. The computer has to learn tiny details that we might miss - like weird shadows, strange eye reflections, or skin that looks too smooth.
+The computer is like a detective looking for clues that are so small that most people wouldn't notice them. It can find patterns in the photos that help it figure out which faces were created by computers (fake) and which are photos of real people.
